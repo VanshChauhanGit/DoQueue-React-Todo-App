@@ -22,7 +22,7 @@ function Footer() {
           <span class="sr-only">LinkedIn</span>
         </a>
         <a
-          href="https://github.com/VanshChauhan-1106"
+          href="https://github.com/VanshChauhanGit"
           target="_blank"
           class="inline-flex justify-center p-2 px-3 text-gray-500 rounded-lg cursor-pointer dark:text-gray-400 dark:hover:text-white hover:text-gray-900 hover:bg-gray-100 dark:hover:bg-gray-600"
         >
@@ -30,7 +30,7 @@ function Footer() {
           <span class="sr-only">Github</span>
         </a>
         <a
-          href="https://vanshchauhan.netlify.app/"
+          href="https://vanshchauhan.vercel.app/"
           target="_blank"
           class="inline-flex justify-center p-2 px-3 text-gray-500 rounded-lg cursor-pointer dark:text-gray-400 dark:hover:text-white hover:text-gray-900 hover:bg-gray-100 dark:hover:bg-gray-600"
         >
@@ -38,7 +38,7 @@ function Footer() {
           <span class="sr-only">Portfolio</span>
         </a>
         <a
-          href="https://www.instagram.com/vansh_.chauhan_/"
+          href="https://www.instagram.com/vansh_.chauhan/"
           target="_blank"
           class="inline-flex justify-center p-2 px-3 text-gray-500 rounded-lg cursor-pointer dark:text-gray-400 dark:hover:text-white hover:text-gray-900 hover:bg-gray-100 dark:hover:bg-gray-600"
         >
@@ -51,3 +51,4 @@ function Footer() {
 }
 
 export default Footer;
+
