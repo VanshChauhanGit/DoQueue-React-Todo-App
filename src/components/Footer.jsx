@@ -4,11 +4,9 @@ function Footer() {
   return (
     <footer class="bg-white shadow md:flex md:items-center md:justify-between md-gap-3 p-4 md:p-6 xl:p-8 dark:bg-gray-800 antialiased">
       <p class="mb-4 text-lg text-center text-gray-500 dark:text-gray-400 sm:mb-0">
-        &copy; 2024{" "}
-        <a href="https://flowbite.com/" class="hover:underline" target="_blank">
-          DoQueue.netlify.app
-        </a>
-        . All rights reserved.
+        &copy; {new Date().getFullYear()}{" "}
+        <span class="hover:underline">DoQueue.netlify.app</span> All rights
+        reserved.
       </p>
       <p class="mb-4 text-xl text-center text-gray-500 dark:text-gray-400 sm:mb-0">
         Made with ❤️ by Vansh Chauhan!
@@ -51,4 +49,3 @@ function Footer() {
 }
 
 export default Footer;
-
